@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me bernieliu@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like turtles.
+- ⚡ Fun fact: I built an AI chatbot to answer my friends’ questions to avoid replying.
 
 <!---
 83rnyyyy/83rnyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
